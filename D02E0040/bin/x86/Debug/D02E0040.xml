@@ -1,0 +1,2340 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+D02E0040
+</name>
+</assembly>
+<members>
+<member name="M:D02E0040.DxxExx40.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con DxxExx40
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.DxxExx40.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con DxxExx40
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.DxxExx40.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.DxxExx40.FormPermission">
+	<summary>
+ Form Phân quyền cho màn hình được gọi 
+ </summary>
+</member><member name="M:D02E0040.DxxExx40.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.DxxExx40.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="T:D02E0040.DxxExx40">
+	<summary>
+ Class DxxExx40 dùng để gọi các exe DxxExx40
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.D91E0640Form.D91F5559">
+	<summary>
+ D91F5559 : Sửa số tăng tự động
+ </summary>
+</member><member name="F:D02E0040.D91E0640Form.D91F5558">
+	<summary>
+ D91F5558: Sửa số phiếu
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.D91E0640Form.D91F1655">
+	<summary>
+ D91F1655 :Nhật ký chi tiết truy cập hệ thống
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.D91E0640Form.D91F0040">
+	<summary>
+ D91F0040: Phương pháp tạo mã tự động
+ </summary>
+	<remarks></remarks>
+</member><member name="T:D02E0040.D91E0640Form">
+	<summary>
+ Các màn hình của exe con D91E0640: Sửa số tăng tự động
+ </summary>
+</member><member name="M:D02E0040.D91E0640.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D91E0640
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D91E0640.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D91E0640
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D91E0640.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D91E0640.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D91E0640.ModuleID">
+	<summary>
+ Module: D91
+ </summary>
+</member><member name="P:D02E0040.D91E0640.Mode">
+	<summary>
+ Mode
+ </summary>
+	<value></value>
+	<remarks></remarks>
+</member><member name="P:D02E0040.D91E0640.Output01">
+	<summary>
+ Kết quả sau khi sửa số phiếu
+ </summary>
+</member><member name="P:D02E0040.D91E0640.Output02">
+	<summary>
+ tra ra gia tri so phieu moi 
+ </summary>
+</member><member name="M:D02E0040.D91E0640.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D91E0640.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F2015">
+	<summary>
+ D02F2015: Quyết toán XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F2011">
+	<summary>
+ D02F2011:Cập nhật quyết toán XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F2100">
+	<summary>
+ D02F2100: Tạo tự động số dư TSCĐ
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F2005">
+	<summary>
+ D02F2005: Cập nhật chứng từ
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F2004">
+	<summary>
+ D02F2004: Danh sách chứng từ
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F1007">
+	<summary>
+ D02F1007: Nhập số dư XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F1003">
+	<summary>
+ D02F1003: Tập hợp chi phí XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F1002">
+	<summary>
+ D02F1002: Nhập số dư TSCĐ
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F5002">
+	<summary>
+ D02F5002: Tính khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F2006">
+	<summary>
+ D02F2006: Chuyển nguồn vốn
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F1050">
+	<summary>
+ D02F1050: Cập nhật chỉ số
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F0501">
+	<summary>
+ D02F0501: Phân bổ khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F2002">
+	<summary>
+ D02F2002: Truy vấn Nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F2003">
+	<summary>
+ D02F2003: Nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E2140Form.D02F3100">
+	<summary>
+ D02F3100: Truy vấn tổng hợp XDCB
+ </summary>
+</member><member name="M:D02E0040.D02E2140_Old.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0240
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E2140_Old.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0240
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E2140_Old.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E2140_Old.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E2140_Old.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E2140_Old.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E2140_Old.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E2140_Old.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3011">
+	<summary>
+ D02F3011: Báo cáo phiếu nhập tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3010">
+	<summary>
+ D02F3010:Thẻ tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3200">
+	<summary>
+ D02F3200: Báo cáo sổ chi tiết tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3020">
+	<summary>
+ D02F3020: Danh sách tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3012">
+	<summary>
+ D02F3012: Báo cáo tăng giảm tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3040">
+	<summary>
+ D02F3040: Tài sản di chuyển nội bộ
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3050">
+	<summary>
+ D02F3050: Thiết bị đính kèm tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3021">
+	<summary>
+ D02F3021: Khấu hao tài sản theo định kỳ
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3030">
+	<summary>
+ D02F3030: Bảng phân bổ khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3025">
+	<summary>
+ D02F3025: Tổng kết khấu hao tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F3300">
+	<summary>
+ D02F3300: Báo cáo lịch sử tác động
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F5005">
+	<summary>
+ D02F5005: Báo cáo chi phí xây dựng cơ bản
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F6005">
+	<summary>
+ D02F6005: Báo cáo nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F7005">
+	<summary>
+ D02F7005: Báo cáo phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F5003">
+	<summary>
+ D02F5003: Báo cáo chi phí xây dựng dở dang
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F6003">
+	<summary>
+ D02F6003: Báo cáo nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F7003">
+	<summary>
+ D02F7003: Phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E6040Form.D02F4100">
+	<summary>
+ D02F4100: Báo cáo nhập xuất tồn TSCĐ
+ </summary>
+</member><member name="M:D02E0040.D02E6040.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0340
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E6040.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0340
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E6040.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E6040.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E6040.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E6040.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E6040.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E6040.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3011">
+	<summary>
+ D02F3011: Báo cáo phiếu nhập tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3010">
+	<summary>
+ D02F3010:Thẻ tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3200">
+	<summary>
+ D02F3200: Báo cáo sổ chi tiết tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3020">
+	<summary>
+ D02F3020: Danh sách tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3012">
+	<summary>
+ D02F3012: Báo cáo tăng giảm tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3040">
+	<summary>
+ D02F3040: Tài sản di chuyển nội bộ
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3050">
+	<summary>
+ D02F3050: Thiết bị đính kèm tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3021">
+	<summary>
+ D02F3021: Khấu hao tài sản theo định kỳ
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3030">
+	<summary>
+ D02F3030: Bảng phân bổ khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3025">
+	<summary>
+ D02F3025: Tổng kết khấu hao tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F3300">
+	<summary>
+ D02F3300: Báo cáo lịch sử tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F5005">
+	<summary>
+ D02F5005: Báo cáo chi phí xây dựng cơ bản
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F6005">
+	<summary>
+ D02F6005: Báo cáo nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F7005">
+	<summary>
+ D02F7005: Báo cáo phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F5003">
+	<summary>
+ D02F5003: Báo cáo chi phí xây dựng dở dang
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F6003">
+	<summary>
+ D02F6003: Báo cáo nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F7003">
+	<summary>
+ D02F7003: Phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5040Form.D02F4100">
+	<summary>
+ D02F4100: Báo cáo nhập xuất tồn TSCĐ
+ </summary>
+</member><member name="T:D02E0040.D02E5040Form">
+	<summary>
+ Các màn hình của exe con D02E0340
+ </summary>
+</member><member name="M:D02E0040.D02E5040.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0340
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E5040.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0340
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E5040.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E5040.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E5040.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E5040.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E5040.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E5040.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F2015">
+	<summary>
+ D02F2015: Quyết toán XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F2011">
+	<summary>
+ D02F2011:Cập nhật quyết toán XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F2100">
+	<summary>
+ D02F2100: Tạo tự động số dư TSCĐ
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F2005">
+	<summary>
+ D02F2005: Cập nhật chứng từ
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F2004">
+	<summary>
+ D02F2004: Danh sách chứng từ
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F1007">
+	<summary>
+ D02F1007: Nhập số dư XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F1003">
+	<summary>
+ D02F1003: Tập hợp chi phí XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F1002">
+	<summary>
+ D02F1002: Nhập số dư TSCĐ
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F5002">
+	<summary>
+ D02F5002: Tính khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F2006">
+	<summary>
+ D02F2006: Chuyển nguồn vốn
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F1050">
+	<summary>
+ D02F1050: Cập nhật chỉ số
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F0501">
+	<summary>
+ D02F0501: Phân bổ khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F2002">
+	<summary>
+ D02F2002: Truy vấn Nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F2003">
+	<summary>
+ D02F2003: Nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F3100">
+	<summary>
+ D02F3100: Truy vấn tổng hợp XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F0600">
+	<summary>
+ D02F0600: Truy vấn tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E4040Form.D02F2030">
+	<summary>
+ D02F2030: Truy vấn tổng hợp TSCĐ
+ </summary>
+</member><member name="M:D02E0040.D02E4040.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0240
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E4040.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0240
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E4040.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E4040.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E4040.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E4040.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E4040.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E4040.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3011">
+	<summary>
+ D02F3011: Báo cáo phiếu nhập tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3010">
+	<summary>
+ D02F3010:Thẻ tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3200">
+	<summary>
+ D02F3200: Báo cáo sổ chi tiết tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3020">
+	<summary>
+ D02F3020: Danh sách tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3012">
+	<summary>
+ D02F3012: Báo cáo tăng giảm tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3040">
+	<summary>
+ D02F3040: Tài sản di chuyển nội bộ
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3050">
+	<summary>
+ D02F3050: Thiết bị đính kèm tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3021">
+	<summary>
+ D02F3021: Khấu hao tài sản theo định kỳ
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3030">
+	<summary>
+ D02F3030: Bảng phân bổ khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3025">
+	<summary>
+ D02F3025: Tổng kết khấu hao tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F3300">
+	<summary>
+ D02F3300: Báo cáo lịch sử tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F5005">
+	<summary>
+ D02F5005: Báo cáo chi phí xây dựng cơ bản
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F6005">
+	<summary>
+ D02F6005: Báo cáo nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F7005">
+	<summary>
+ D02F7005: Báo cáo phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F5003">
+	<summary>
+ D02F5003: Báo cáo chi phí xây dựng dở dang
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F6003">
+	<summary>
+ D02F6003: Báo cáo nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F7003">
+	<summary>
+ D02F7003: Phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5140Form.D02F4100">
+	<summary>
+ D02F4100: Báo cáo nhập xuất tồn TSCĐ
+ </summary>
+</member><member name="M:D02E0040.D02E5140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0340
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E5140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0340
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E5140.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E5140.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E5140.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E5140.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E5140.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E5140.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F2015">
+	<summary>
+ D02F2015: Quyết toán XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F2011">
+	<summary>
+ D02F2011:Cập nhật quyết toán XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F2100">
+	<summary>
+ D02F2100: Tạo tự động số dư TSCĐ
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F2005">
+	<summary>
+ D02F2005: Cập nhật chứng từ
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F2004">
+	<summary>
+ D02F2004: Danh sách chứng từ
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F1007">
+	<summary>
+ D02F1007: Nhập số dư XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F1003">
+	<summary>
+ D02F1003: Tập hợp chi phí XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F1002">
+	<summary>
+ D02F1002: Nhập số dư TSCĐ
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F5002">
+	<summary>
+ D02F5002: Tính khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F2006">
+	<summary>
+ D02F2006: Chuyển nguồn vốn
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F1050">
+	<summary>
+ D02F1050: Cập nhật chỉ số
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F0501">
+	<summary>
+ D02F0501: Phân bổ khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F2002">
+	<summary>
+ D02F2002: Truy vấn Nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F2003">
+	<summary>
+ D02F2003: Nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E2040Form.D02F3100">
+	<summary>
+ D02F3100: Truy vấn tổng hợp XDCB
+ </summary>
+</member><member name="T:D02E0040.D02E2040Form">
+	<summary>
+ Các màn hình của exe con D02E0240
+ </summary>
+</member><member name="M:D02E0040.D02E2040.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0240
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E2040.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0240
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E2040.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E2040.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E2040.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E2040.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E2040.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E2040.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3011">
+	<summary>
+ D02F3011: Báo cáo phiếu nhập tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3010">
+	<summary>
+ D02F3010:Thẻ tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3200">
+	<summary>
+ D02F3200: Báo cáo sổ chi tiết tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3020">
+	<summary>
+ D02F3020: Danh sách tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3012">
+	<summary>
+ D02F3012: Báo cáo tăng giảm tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3040">
+	<summary>
+ D02F3040: Tài sản di chuyển nội bộ
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3050">
+	<summary>
+ D02F3050: Thiết bị đính kèm tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3021">
+	<summary>
+ D02F3021: Khấu hao tài sản theo định kỳ
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3030">
+	<summary>
+ D02F3030: Bảng phân bổ khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3025">
+	<summary>
+ D02F3025: Tổng kết khấu hao tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F3300">
+	<summary>
+ D02F3300: Báo cáo lịch sử tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F5005">
+	<summary>
+ D02F5005: Báo cáo chi phí xây dựng cơ bản
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F6005">
+	<summary>
+ D02F6005: Báo cáo nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F7005">
+	<summary>
+ D02F7005: Báo cáo phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F5003">
+	<summary>
+ D02F5003: Báo cáo chi phí xây dựng dở dang
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F6003">
+	<summary>
+ D02F6003: Báo cáo nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F7003">
+	<summary>
+ D02F7003: Phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5240Form.D02F4100">
+	<summary>
+ D02F4100: Báo cáo nhập xuất tồn TSCĐ
+ </summary>
+</member><member name="M:D02E0040.D02E5240.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0340
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E5240.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0340
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E5240.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E5240.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E5240.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E5240.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E5240.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E5240.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F0200">
+	<summary>
+ D02F0200
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F0201">
+	<summary>
+ D02F0201
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F1041">
+	<summary>
+ D02F1041
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F1402">
+	<summary>
+ D02F1402
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F3000">
+	<summary>
+ D02F3000
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F2000">
+	<summary>
+ D02F2000
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F1030">
+	<summary>
+ D02F1030: Danh mục tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F0040">
+	<summary>
+ D02F0040: Mã loại phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F0041">
+	<summary>
+ D02F0041: Mã phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F0050">
+	<summary>
+ D02F0050: Mã loại phân tích XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F0051">
+	<summary>
+ D02F0051: Mã phân tích XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F0100">
+	<summary>
+ D02F0100: Tiêu thức phân bổ
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F0054">
+	<summary>
+ D02F0054: Bộ định mức
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F0020">
+	<summary>
+ D02F0020: Bảng khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E1040Form.D02F1021">
+	<summary>
+ D02F1021: Nghiệp vụ tác động
+ </summary>
+</member><member name="T:D02E0040.D02E1040Form">
+	<summary>
+ Các màn hình của exe con D02E0140
+ </summary>
+</member><member name="M:D02E0040.D02E1040.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E1040.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E1040.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E1040.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E1040.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E1040.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E1040.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E1040.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="M:D02E0040.D02E2140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E2240
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E2140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D80E0440
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E2140.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E2140.FormPermission">
+	<summary>
+ Form Phân quyền cho màn hình được gọi
+ </summary>
+</member><member name="M:D02E0040.D02E2140.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E2140.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3011">
+	<summary>
+ D02F3011: Báo cáo phiếu nhập tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3010">
+	<summary>
+ D02F3010:Thẻ tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3200">
+	<summary>
+ D02F3200: Báo cáo sổ chi tiết tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3020">
+	<summary>
+ D02F3020: Danh sách tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3012">
+	<summary>
+ D02F3012: Báo cáo tăng giảm tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3040">
+	<summary>
+ D02F3040: Tài sản di chuyển nội bộ
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3050">
+	<summary>
+ D02F3050: Thiết bị đính kèm tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3021">
+	<summary>
+ D02F3021: Khấu hao tài sản theo định kỳ
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3030">
+	<summary>
+ D02F3030: Bảng phân bổ khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3025">
+	<summary>
+ D02F3025: Tổng kết khấu hao tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F3300">
+	<summary>
+ D02F3300: Báo cáo lịch sử tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F5005">
+	<summary>
+ D02F5005: Báo cáo chi phí xây dựng cơ bản
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F6005">
+	<summary>
+ D02F6005: Báo cáo nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F7005">
+	<summary>
+ D02F7005: Báo cáo phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F5003">
+	<summary>
+ D02F5003: Báo cáo chi phí xây dựng dở dang
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F6003">
+	<summary>
+ D02F6003: Báo cáo nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F7003">
+	<summary>
+ D02F7003: Phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E5340Form.D02F4100">
+	<summary>
+ D02F4100: Báo cáo nhập xuất tồn TSCĐ
+ </summary>
+</member><member name="M:D02E0040.D02E5340.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0340
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E5340.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0340
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E5340.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E5340.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E5340.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E5340.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E5340.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E5340.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="M:D02E0040.D02X0000.Main">
+	<summary>
+ Sub khởi động cho Module D02
+ </summary>
+</member><member name="T:D02E0040.D02X0000">
+	<summary>
+ Module này liên quan đến các vấn đề của SUB Main
+ </summary>
+	<remarks></remarks>
+</member><member name="M:D02E0040.D02E2240.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E2240
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E2240.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D80E0440
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E2240.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E2240.FormPermission">
+	<summary>
+ Form Phân quyền cho màn hình được gọi
+ </summary>
+</member><member name="M:D02E0040.D02E2240.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E2240.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F0200">
+	<summary>
+ D02F0200
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F0201">
+	<summary>
+ D02F0201
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F1041">
+	<summary>
+ D02F1041
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F1402">
+	<summary>
+ D02F1402
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F3000">
+	<summary>
+ D02F3000
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F2000">
+	<summary>
+ D02F2000
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F1030">
+	<summary>
+ D02F1030: Danh mục tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F0040">
+	<summary>
+ D02F0040: Mã loại phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F0041">
+	<summary>
+ D02F0041: Mã phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F0050">
+	<summary>
+ D02F0050: Mã loại phân tích XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F0051">
+	<summary>
+ D02F0051: Mã phân tích XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F0100">
+	<summary>
+ D02F0100: Tiêu thức phân bổ
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F0054">
+	<summary>
+ D02F0054: Bộ định mức
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F0020">
+	<summary>
+ D02F0020: Bảng khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F1021">
+	<summary>
+ D02F1021: Nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E1140Form.D02F0600">
+	<summary>
+ D02F0600: Truy vấn tài sản
+ </summary>
+</member><member name="M:D02E0040.D02E1140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E1140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E1140.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E1140.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E1140.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E1140.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E1140.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E1140.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D90E0140Form.D90F0301">
+	<summary>
+ D90F0301: Danh mục tài khoản
+ D90F5000: Danh mục mã phân bổ
+ D90F1000: Danh mục loại nghiệp vụ
+ D90F1100: Danh mục loại nghiệp vụ xung tiêu
+ D90F1500: Danh mục Nghiệp vụ loại trừ
+ D90F5553: Tình trạng khóa sổ
+ </summary>
+</member><member name="T:D02E0040.D90E0140Form">
+	<summary>
+ Các màn hình của exe con D90E0140
+ </summary>
+</member><member name="M:D02E0040.D90E0140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D90E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D90E0140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D90E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D90E0140.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D90E0140.FormPermission">
+	<summary>
+ Form Phân quyền cho màn hình được gọi
+ </summary>
+</member><member name="P:D02E0040.D90E0140.FormStatus">
+	<summary>
+ Trạng thái Form màn hình : AddNew , Edit or View
+ </summary>
+</member><member name="M:D02E0040.D90E0140.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D90E0140.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D90E0140.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D02X0001.MODULED02">
+	<summary>
+ Module đang coding D02E0040
+ </summary>
+</member><member name="F:D02E0040.D02X0001.D02">
+	<summary>
+ Chuỗi D02
+ </summary>
+</member><member name="F:D02E0040.D02X0001.L3_APP_NAME">
+	<summary>
+ Dùng cho kiểm tra Security theo chuẩn của DIGINET
+ </summary>
+</member><member name="F:D02E0040.D02X0001.L3_HS_SECTION">
+	<summary>
+ Dùng cho kiểm tra Security theo chuẩn của DIGINET cho phiên bản hiện tại
+ </summary>
+</member><member name="F:D02E0040.D02X0001.L3_HS_SECTION1">
+	<summary>
+ Dùng cho kiểm tra Security theo chuẩn của DIGINET  cho 2 phiên bản cũ
+ </summary>
+</member><member name="F:D02E0040.D02X0001.L3_HS_MODULE">
+	<summary>
+ Dùng cho kiểm tra Security theo chuẩn của DIGINET
+ </summary>
+</member><member name="F:D02E0040.D02X0001.L3_HS_VALUE">
+	<summary>
+ Dùng cho kiểm tra Security theo chuẩn của DIGINET
+ </summary>
+</member><member name="T:D02E0040.D02X0001">
+	<summary>
+ Module này liên qua đến các khai báo biến, enum, ... toàn cục
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F0200">
+	<summary>
+ D02F0200
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F0201">
+	<summary>
+ D02F0201
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F1041">
+	<summary>
+ D02F1041
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F1402">
+	<summary>
+ D02F1402
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F3000">
+	<summary>
+ D02F3000
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F2000">
+	<summary>
+ D02F2000
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F1030">
+	<summary>
+ D02F1030: Danh mục tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F0040">
+	<summary>
+ D02F0040: Mã loại phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F0041">
+	<summary>
+ D02F0041: Mã phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F0050">
+	<summary>
+ D02F0050: Mã loại phân tích XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F0051">
+	<summary>
+ D02F0051: Mã phân tích XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F0100">
+	<summary>
+ D02F0100: Tiêu thức phân bổ
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F0054">
+	<summary>
+ D02F0054: Bộ định mức
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F0020">
+	<summary>
+ D02F0020: Bảng khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F1021">
+	<summary>
+ D02F1021: Nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E1240Form.D02F0600">
+	<summary>
+ D02F0600: Truy vấn tài sản
+ </summary>
+</member><member name="M:D02E0040.D02E1240.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E1240.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E1240.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E1240.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="M:D02E0040.D02E1240.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E1240.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E1240.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="P:D02E0040.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:D02E0040.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:D02E0040.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:D02E0040.D02X0002.OpeningSpecial(System.Boolean)">
+	<summary>
+ Dùng cho kiểm tra Mở sổ đặc biệt
+ bMain: True:gọi từ DxxF0000. False: gọi từ form Chọn kỳ
+ Giá trị trả về: 0,1,2(Đã hiển thị form Chọn kỳ)
+ </summary>
+</member><member name="T:D02E0040.D02X0002">
+	<summary>
+ Module này dùng để khai báo các Sub và Function toàn cục
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F0200">
+	<summary>
+ D02F0200
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F0201">
+	<summary>
+ D02F0201
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F1041">
+	<summary>
+ D02F1041
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F1402">
+	<summary>
+ D02F1402
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F3000">
+	<summary>
+ D02F3000
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F2000">
+	<summary>
+ D02F2000
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F1030">
+	<summary>
+ D02F1030: Danh mục tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F0040">
+	<summary>
+ D02F0040: Mã loại phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F0041">
+	<summary>
+ D02F0041: Mã phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F0050">
+	<summary>
+ D02F0050: Mã loại phân tích XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F0051">
+	<summary>
+ D02F0051: Mã phân tích XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F0100">
+	<summary>
+ D02F0100: Tiêu thức phân bổ
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F0054">
+	<summary>
+ D02F0054: Bộ định mức
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F0020">
+	<summary>
+ D02F0020: Bảng khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F1021">
+	<summary>
+ D02F1021: Nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E1340Form.D02F0600">
+	<summary>
+ D02F0600: Truy vấn tài sản
+ </summary>
+</member><member name="M:D02E0040.D02E1340.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E1340.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E1340.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E1340.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E1340.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E1340.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E1340.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E1340.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D89E0140Form.D89F9100">
+	<summary>
+ D89F9100
+ </summary>
+</member><member name="T:D02E0040.D89E0140Form">
+	<summary>
+ Các màn hình của exe con D89E0140
+ </summary>
+</member><member name="M:D02E0040.D89E0140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D89E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D89E0140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D91E0130
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D89E0140.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D89E0140.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D89E0140.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D89E0140.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D89E0140.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D89E0140.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="T:D02E0040.D02X0003">
+	<summary>
+ Module này dùng để khai báo các vấn đề liên quan đến việc gọi một exe con
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F0200">
+	<summary>
+ D02F0200
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F0201">
+	<summary>
+ D02F0201
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F1041">
+	<summary>
+ D02F1041
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F1402">
+	<summary>
+ D02F1402
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F3000">
+	<summary>
+ D02F3000
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F2000">
+	<summary>
+ D02F2000
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F1030">
+	<summary>
+ D02F1030: Danh mục tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F0040">
+	<summary>
+ D02F0040: Mã loại phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F0041">
+	<summary>
+ D02F0041: Mã phân tích tài sản
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F0050">
+	<summary>
+ D02F0050: Mã loại phân tích XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F0051">
+	<summary>
+ D02F0051: Mã phân tích XDCB
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F0100">
+	<summary>
+ D02F0100: Tiêu thức phân bổ
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F0054">
+	<summary>
+ D02F0054: Bộ định mức
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F0020">
+	<summary>
+ D02F0020: Bảng khấu hao
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F1021">
+	<summary>
+ D02F1021: Nghiệp vụ tác động
+ </summary>
+</member><member name="F:D02E0040.D02E1440Form.D02F0600">
+	<summary>
+ D02F0600: Truy vấn tài sản
+ </summary>
+</member><member name="M:D02E0040.D02E1440.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D02E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D02E1440.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D02E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D02E1440.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E1440.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="P:D02E0040.D02E1440.In_ModuleName">
+	<summary>
+ ModuleName
+ </summary>
+</member><member name="M:D02E0040.D02E1440.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D02E1440.RunExe(System.String,System.Boolean)">
+	<summary>
+ Nếu gọi Exe con có giá trị trả về thì bReturn = true
+ Ngược lại thì bReturn = false
+ </summary>
+</member><member name="M:D02E0040.D02E1440.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D89E0240Form.D89F9101">
+	<summary>
+ D89F9101: Danh sách mẫu báo cáo
+ </summary>
+</member><member name="T:D02E0040.D89E0240Form">
+	<summary>
+ Các màn hình của exe con D89E0240: Mẫu báo cáo
+ </summary>
+</member><member name="M:D02E0040.D89E0240.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D89E0240
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D89E0240.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D89E0240
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D89E0240.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D89E0240.FormPermission">
+	<summary>
+ Màn hình phân quyền cho exe con
+ </summary>
+</member><member name="M:D02E0040.D89E0240.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D89E0240.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.D91E0140Form.D91F0310">
+	<summary>
+ D91F0310: Danh mục các mã tham khảo
+ </summary>
+</member><member name="F:D02E0040.D91E0140Form.D91F0320">
+	<summary>
+ D91F0320: Nhập mã tham khảo
+ </summary>
+</member><member name="T:D02E0040.D91E0140Form">
+	<summary>
+ Các màn hình của exe con D91E0140: Mã tham khảo
+ </summary>
+</member><member name="M:D02E0040.D91E0140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Khởi tạo exe con D91E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+</member><member name="M:D02E0040.D91E0140.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Khởi tạo exe con D91E0140
+ </summary>
+	<param name="Server">Server kết nối đến hệ thống</param>
+	<param name="Database">Database kết nối đến hệ thống</param>
+	<param name="UserDatabaseID">User Database kết nối đến hệ thống</param>
+	<param name="Password">Password kết nối đến hệ thống</param>
+	<param name="UserID">User Lemon3 kết nối đến hệ thống</param>
+	<param name="Language">Ngôn ngữ sử dụng</param>
+	<param name="DivisionID">Đơn vị hiện tại</param>
+	<param name="TranMonth">Tháng kế toán hiện tại</param>
+	<param name="TranYear">Năm kế toán hiện tại</param>
+</member><member name="P:D02E0040.D91E0140.FormActive">
+	<summary>
+ Màn hình cần hiển thị cho exe con
+ </summary>
+</member><member name="P:D02E0040.D91E0140.FormPermission">
+	<summary>
+ Màn hình phân quyền
+ </summary>
+</member><member name="P:D02E0040.D91E0140.FormStatus">
+	<summary>
+ Trạng thái Form màn hình : AddNew , Edit or View
+ </summary>
+</member><member name="P:D02E0040.D91E0140.FormName">
+	<summary>
+ Tên của Màn hình - DxxFxxxx
+ </summary>
+</member><member name="P:D02E0040.D91E0140.LookupType">
+	<summary>
+ LookupType - Truyền theo yêu cầu của PSAD
+ </summary>
+</member><member name="P:D02E0040.D91E0140.FormText">
+	<summary>
+ Tiêu đề của màn hình - Ví dụ: Danh mục các mã tham khảo
+ </summary>
+</member><member name="P:D02E0040.D91E0140.FormSubText">
+	<summary>
+ FormSubText - Tiêu đề của màn hình con(Màn hình cập nhật - Ví dụ: Cập nhật mã tham khảo)
+ </summary>
+</member><member name="P:D02E0040.D91E0140.Output01">
+	<summary>
+ Biến tra ve Output01 sau khi thêm mới/Sửa
+ </summary>
+</member><member name="M:D02E0040.D91E0140.Run">
+	<summary>
+ Thực thi exe con
+ </summary>
+</member><member name="M:D02E0040.D91E0140.ExistFile(System.String)">
+	<summary>
+ Kiểm tra tồn tại exe con không ?
+ </summary>
+</member><member name="F:D02E0040.StructureOption.MessageAskBeforeSave">
+	<summary>
+ Hỏi trước khi lưu
+ </summary>
+</member><member name="F:D02E0040.StructureOption.MessageWhenSaveOK">
+	<summary>
+ Thông báo khi lưu thành công
+ </summary>
+</member><member name="F:D02E0040.StructureOption.ViewFormPeriodWhenAppRun">
+	<summary>
+ Hiển thị form chọn kỳ kế toán khi chạy chương trình
+ </summary>
+</member><member name="F:D02E0040.StructureOption.SaveLastRecent">
+	<summary>
+ Lưu giá trị gần nhất
+ </summary>
+</member><member name="F:D02E0040.StructureOption.DefaultDivisionID">
+	<summary>
+ Lưu đơn vị mặc định
+ </summary>
+</member><member name="F:D02E0040.StructureOption.LockConvertedAmount">
+	<summary>
+ Khóa thành tiền quy đổi
+ </summary>
+</member><member name="F:D02E0040.StructureOption.RoundConvertedAmount">
+	<summary>
+ Làm tròn thành tiền quy đổi
+ </summary>
+</member><member name="F:D02E0040.StructureOption.ViewWorkflow">
+	<summary>
+ Hiển thị quy trình sơ đồ nghiệp vụ
+ </summary>
+</member><member name="F:D02E0040.StructureOption.ReportLanguage">
+	<summary>
+ Ngôn ngữ báo cáo
+ </summary>
+</member><member name="F:D02E0040.StructureOption.ShowReportPath">
+	<summary>
+ Hiển thị đường dẫn báo cáo cho lần sau
+ </summary>
+</member><member name="T:D02E0040.StructureOption">
+	<summary>
+ Khai báo Structure cho phần Tùy chọn của Module
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.DefaultDivisionID">
+	<summary>
+ Đơn vị mặc định
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.DefAssetAccountID">
+	<summary>
+ TK tài sản
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.DefDepreciationAccountID">
+	<summary>
+ TK khấu hao
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.DefSourceID">
+	<summary>
+ Nguồn vốn
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.DefAssignmentID">
+	<summary>
+ Phân bổ KH
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.MethodID">
+	<summary>
+ Phương pháp KH
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.MethodEndID">
+	<summary>
+ Xử lý KH kỳ cuối
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.DecreaseAsset">
+	<summary>
+ Các bút toán giảm TS
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetAuto">
+	<summary>
+ Tạo mã tự động cho tài sản cố định
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetS1Enabled">
+	<summary>
+ Phân loại 1
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetS2Enabled">
+	<summary>
+ Phân loại 2
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetS3Enabled">
+	<summary>
+ Phân loại 3
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetS1Default">
+	<summary>
+ AssetS1Default
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetS2Default">
+	<summary>
+ AssetS2Default
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetS3Default">
+	<summary>
+ AssetS3Default
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.S1Length">
+	<summary>
+ S1Length
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.S2Length">
+	<summary>
+ S2Length
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.S3Length">
+	<summary>
+ S3Length
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetSeperated">
+	<summary>
+ Dấu phân cách
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetSeperator">
+	<summary>
+ Dấu phân cách
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetOutputOrder">
+	<summary>
+ Dạng hiển thị
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AutoNumberLength">
+	<summary>
+ Độ dài số
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.AssetOutputLength">
+	<summary>
+ Độ dài mã
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.CIPAuto">
+	<summary>
+ Độ dài mã Incident 69247
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.IsAssetIDForD02D43">
+	<summary>
+ Mã TSCĐ và mã CCDC tăng liên tục
+ </summary>
+</member><member name="F:D02E0040.StructureSystem.UseProperty">
+	<summary>
+ BĐS đầu tư
+ </summary>
+</member><member name="T:D02E0040.StructureSystem">
+	<summary>
+ Khai báo structure cho phần Thiết lập hệ thống
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.OriginalAmount">
+	<summary>
+ format thành tiền nguyên tệ
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.OriginalAmountRound">
+	<summary>
+ Số làm tròn của thành tiền nguyên tệ
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.ConvertedAmount">
+	<summary>
+ format thành tiền quy đổi
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.ConvertedAmountRound">
+	<summary>
+ Số làm tròn của thành tiền quy đổi
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.OriginalReduction">
+	<summary>
+ format giảm giá
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.OriginalReductionRound">
+	<summary>
+ Số làm tròn của giảm giá
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.ConvertedReduction">
+	<summary>
+ format giảm giá quy đổi
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.ConvertedReductionRound">
+	<summary>
+ Số làm tròn của giảm giá quy đổi
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.ExchangeRate">
+	<summary>
+ format tỷ giá
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.ExchangeRateRound">
+	<summary>
+ Số làm tròn của tỷ giá
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.BaseCurrencyID">
+	<summary>
+ Nguyên tệ gốc
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.DecimalSeperator">
+	<summary>
+ Dấu phân cách thập phân
+ </summary>
+</member><member name="F:D02E0040.StructureFormat.ThousandSeperator">
+	<summary>
+ Dấu phân cách hàng ngàn
+ </summary>
+</member><member name="T:D02E0040.StructureFormat">
+	<summary>
+ Khai báo structure cho phần định dạng format
+ </summary>
+</member><member name="F:D02E0040.StructureFormatNew.ExchangeRate">
+	<summary>
+ Format tỷ giá
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.StructureFormatNew.DecimalPlaces">
+	<summary>
+ Format nguyên tệ 
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.StructureFormatNew.MyOriginal">
+	<summary>
+ Format nguyên tệ ứng với mỗi loại tiền
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.StructureFormatNew.D90_Converted">
+	<summary>
+ Format tiền quy đổi
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.StructureFormatNew.D07_Quantity">
+	<summary>
+ Format số lượng, số lượng quy đổi theo nhóm sản xuất
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.StructureFormatNew.D07_UnitCost">
+	<summary>
+ Format đơn giá theo nhóm sản xuất
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.StructureFormatNew.DefaultNumber2">
+	<summary>
+ Format 2 số lẽ
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.StructureFormatNew.DefaultNumber4">
+	<summary>
+ Format 4 số lẽ
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.StructureFormatNew.DefaultNumber0">
+	<summary>
+ Format 0 số lẽ
+ </summary>
+	<remarks></remarks>
+</member><member name="T:D02E0040.StructureFormatNew">
+	<summary>
+ Khai báo cho phần định dạng chung lấy từ D91P9300
+ Createdate 20/12/2007
+ </summary>
+	<remarks></remarks>
+</member><member name="F:D02E0040.D02X0004.D02Options">
+	<summary>
+ Lưu trữ các thiết lập tùy chọn
+ </summary>
+</member><member name="F:D02E0040.D02X0004.D02Systems">
+	<summary>
+ Lưu trữ các thiết lập Thông tin hệ thống
+ </summary>
+</member><member name="F:D02E0040.D02X0004.D02Format">
+	<summary>
+ Lưu trữ các thiết lập format
+ </summary>
+</member><member name="F:D02E0040.D02X0004.frmD02F0000">
+	<summary>
+ Form Main của Module D02
+ </summary>
+</member><member name="M:D02E0040.D02X0004.LoadOptions">
+	<summary>
+ Load toàn bộ các thông số tùy chọn vào biến D02Options
+ </summary>
+</member><member name="M:D02E0040.D02X0004.LoadSystems">
+	<summary>
+ Load toàn bộ các thống số thiết lập hệ thống vào biến D02Systems
+ </summary>
+</member><member name="M:D02E0040.D02X0004.AskSave">
+	<summary>
+ Hỏi trước khi lưu tùy thuộc vào thiết lập ở phần Tùy chọn
+ </summary>
+</member><member name="M:D02E0040.D02X0004.AskDelete">
+	<summary>
+ Thông báo trước khi xóa
+ </summary>
+</member><member name="M:D02E0040.D02X0004.AskLocked">
+	<summary>
+ Thông báo trước khi khóa phiếu
+ </summary>
+</member><member name="M:D02E0040.D02X0004.SaveOK">
+	<summary>
+ Thông báo khi lưu thành công tùy theo phần thiết lập ở tùy chọn
+ </summary>
+</member><member name="M:D02E0040.D02X0004.DeleteOK">
+	<summary>
+ Thông báo sau khi xóa thành công
+ </summary>
+</member><member name="M:D02E0040.D02X0004.LockedOK">
+	<summary>
+ Thông báo sau khi khóa phiếu thành công
+ </summary>
+</member><member name="M:D02E0040.D02X0004.SaveNotOK">
+	<summary>
+ Thông báo không lưu được dữ liệu
+ </summary>
+</member><member name="M:D02E0040.D02X0004.DeleteNotOK">
+	<summary>
+ Thông báo không xóa được dữ liệu
+ </summary>
+</member><member name="M:D02E0040.D02X0004.LockedNotOK">
+	<summary>
+ Thông báo không khóa được phiếu
+ </summary>
+</member><member name="T:D02E0040.D02X0004">
+	<summary>
+ Module liên quan đến các vấn đề về Tùy chọn, Thiết lập hệ thống, ...
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
